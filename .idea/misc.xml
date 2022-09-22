@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/drawable/shape_black.xml" value="0.1295" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/drawable/shape_green.xml" value="0.1295" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/drawable/shape_yellow.xml" value="0.1295" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/drawable/style_button.xml" value="0.1595" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/drawable/view_border.xml" value="0.1555" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/activity_guide.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/adapter_search.xml" value="0.5" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/view_edit_text.xml" value="0.375" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/view_editview.xml" value="0.16666666666666666" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/view_main.xml" value="0.335" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/view_search.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java/room/app/src/main/res/layout/view_toolbar.xml" value="0.45" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
